@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Maintenance.svg"
+   inkscape:export-filename="D:\Angelo\DTU\Thesis\03. Images\visuals\Maintenance.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.0179639"
+     inkscape:cx="302.56475"
+     inkscape:cy="357.08534"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1119" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="80"
+       y="490"
+       width="100"
+       height="30"
+       id="rect3846" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1473" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1467" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1473-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#c4000d;fill-opacity:0.60000002;stroke:#300000;stroke-width:0.244758;stroke-miterlimit:3.7"
+       id="path846"
+       cx="35.61393"
+       cy="135.03893"
+       rx="22.224127"
+       ry="13.196261" />
+    <ellipse
+       style="fill:#c4000d;fill-opacity:0.60000002;stroke:#300000;stroke-width:0.244758;stroke-miterlimit:3.7"
+       id="path846-3"
+       cx="99.720917"
+       cy="135.22568"
+       rx="22.224127"
+       ry="13.196261" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="99.513519"
+       y="133.86693"
+       id="text26868-1"><tspan
+         sodipodi:role="line"
+         id="tspan26866-1"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="99.513519"
+         y="133.86693">Maintenance</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="99.513519"
+         y="139.15858"
+         id="tspan26870-4">Kit</tspan></text>
+    <ellipse
+       style="fill:#c4000d;fill-opacity:0.59561753;stroke:#300000;stroke-width:0.244758;stroke-miterlimit:3.7"
+       id="path846-5"
+       cx="162.62637"
+       cy="135.05293"
+       rx="22.224127"
+       ry="13.196261" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="161.8107"
+       y="133.62993"
+       id="text26868-17"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="161.8107"
+         y="133.62993"
+         id="tspan26870-42">Spare</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="161.8107"
+         y="138.92159"
+         id="tspan33373">Parts</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.644733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 60.854167,134.9375 H 74.083333"
+       id="path1382" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.644733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-1)"
+       d="m 124.35416,134.9375 h 13.22917"
+       id="path1382-1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3844"
+       style="line-height:1.25;font-family:sans-serif;font-size:10.66666667px;white-space:pre;shape-inside:url(#rect3846)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:3.85;stroke-dasharray:none"
+       x="34.635113"
+       y="133.59125"
+       id="text26868"><tspan
+         sodipodi:role="line"
+         id="tspan26866"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:3.85;stroke-dasharray:none"
+         x="34.635113"
+         y="133.59125">Maintenance</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:3.85;stroke-dasharray:none"
+         x="34.635113"
+         y="138.8829"
+         id="tspan26870">Type</tspan></text>
+    <rect
+       style="fill:#1f3dff;fill-opacity:0.61752987;stroke:#1f3dff;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect39359"
+       width="23.8125"
+       height="7.9375"
+       x="119.0625"
+       y="119.0625" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="122.25015"
+       y="123.77593"
+       id="text43433"><tspan
+         sodipodi:role="line"
+         id="tspan43431"
+         style="stroke-width:0.264583"
+         x="122.25015"
+         y="123.77593">Engine Type</tspan></text>
+  </g>
+</svg>
