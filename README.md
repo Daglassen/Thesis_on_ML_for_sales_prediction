@@ -3,7 +3,7 @@ Master Thesis for maritime industry
 
 **Title:** Data-driven predictive maintenance planning for maritime industry
 
-Abstract: 
+**Abstract: **
 Data-driven prediction of maintenance planning can have a twofold benefit. Both for the
 company that provides spare parts for the maintenance and for the customer that has a
 maintenance scheduled. In maritime industry in particular, since the customer’s vessels
