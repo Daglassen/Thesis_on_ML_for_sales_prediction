@@ -24,7 +24,7 @@ The Random Forest is the model that achieved the best score, with the Neural Net
 however, being a very good alternative.
 
 
-**Description:**
-Using historical data on vessels maintenance to predict maintenance needs for the upcoming year
-Shape a real-world problem into a Machine Learning Binary classification problem
+**Description:** \n
+Using historical data on vessels maintenance to predict maintenance needs for the upcoming year \n
+Shape a real-world problem into a Machine Learning Binary classification problem \n
 Implement, improve and compare various ML models
