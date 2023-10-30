@@ -3,7 +3,7 @@ Master Thesis for maritime industry
 
 **Title:** Data-driven predictive maintenance planning for maritime industry
 
-**Abstract: **
+**Abstract:**
 Data-driven prediction of maintenance planning can have a twofold benefit. Both for the
 company that provides spare parts for the maintenance and for the customer that has a
 maintenance scheduled. In maritime industry in particular, since the customer’s vessels
@@ -24,4 +24,7 @@ The Random Forest is the model that achieved the best score, with the Neural Net
 however, being a very good alternative.
 
 
-
+**Description:**
+Using historical data on vessels maintenance to predict maintenance needs for the upcoming year
+Shape a real-world problem into a Machine Learning Binary classification problem
+Implement, improve and compare various ML models
