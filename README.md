@@ -1,8 +1,8 @@
 # Thesis_on_ML_for_sales_prediction
-Master Thesis for maritime industry
 
-## Title: <br>
-Data-driven predictive maintenance planning for maritime industry
+## Data-driven predictive maintenance planning for maritime industry <br>
+Master Thesis for maritime industry <br>
+
 
 **Abstract:**<br>
 Data-driven prediction of maintenance planning can have a twofold benefit. Both for the
