@@ -1,7 +1,6 @@
-# Thesis_on_ML_for_sales_prediction
+# Master_Thesis_on_ML_for_sales_prediction
 
 ## Data-driven predictive maintenance planning for maritime industry <br>
-Master Thesis for maritime industry <br>
 
 
 **Abstract:**<br>
