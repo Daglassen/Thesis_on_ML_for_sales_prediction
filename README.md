@@ -25,6 +25,6 @@ however, being a very good alternative.
 
 
 **Description:** <br>
-Using historical data on vessels maintenance to predict maintenance needs for the upcoming year <br>
-Shape a real-world problem into a Machine Learning Binary classification problem <br>
-Implement, improve and compare various ML models
+1. Using historical data on vessels maintenance to predict maintenance needs for the upcoming year <br>
+2. Shape a real-world problem into a Machine Learning Binary classification problem <br>
+3. Implement, improve and compare various ML models
