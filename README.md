@@ -29,5 +29,3 @@ however, being a very good alternative.
 2. Shape a real-world problem into a Machine Learning Binary classification problem <br>
 3. Implement, improve and compare various ML models
 
-
-![cm](03._Images\visuals\Confusion.png)
