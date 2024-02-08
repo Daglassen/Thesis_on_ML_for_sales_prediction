@@ -29,3 +29,4 @@ however, being a very good alternative.
 2. Shape a real-world problem into a Machine Learning Binary classification problem <br>
 3. Implement, improve and compare various ML models
 
+![plot](C:\Users\dagla\Documents\GitHub\Thesis_on_ML_for_sales_prediction\03._Images\visuals\Confusion.png)
