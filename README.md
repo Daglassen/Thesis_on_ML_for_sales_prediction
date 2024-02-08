@@ -30,3 +30,5 @@ however, being a very good alternative.
 3. Implement, improve and compare various ML models
 
 ![cm](C:\Users\dagla\Documents\GitHub\Thesis_on_ML_for_sales_prediction\03._Images\visuals\Confusion.png)
+ 
+ Angelo
