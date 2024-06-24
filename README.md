@@ -32,4 +32,4 @@ however, being a very good alternative.
 3. Implement, improve and compare various ML models
 
 
-![plot](03._Images\visuals\Confusion.png)
+![plot](https://github.com/Daglassen/Thesis_on_ML_for_sales_prediction/blob/main/03._Images/visuals/Confusion.png)
