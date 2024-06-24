@@ -31,5 +31,6 @@ however, being a very good alternative.
 2. Shape a real-world problem into a Machine Learning Binary classification problem
 3. Implement, improve and compare various ML models
 
+![plot](https://github.com/Daglassen/Thesis_on_ML_for_sales_prediction/blob/main/03._Images/plots/LLE/precision_recall_LLE.png)
 
-![plot](https://github.com/Daglassen/Thesis_on_ML_for_sales_prediction/blob/main/03._Images/visuals/Confusion.png)
+![plot](https://github.com/Daglassen/Thesis_on_ML_for_sales_prediction/blob/main/03._Images/plots/thresholds/RF_default.png)
